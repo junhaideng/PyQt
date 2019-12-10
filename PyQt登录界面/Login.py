@@ -27,7 +27,7 @@ else:
 class MyWindow(QWidget):
     def __init__(self):
         super().__init__()
-        self.icon = QIcon("./python-logo.png")
+        self.icon = QIcon("./IMG/python-logo.png")
         self.database = Database('./data.db')
         self.sign_up_win = SignWindow()  # 创建的注册窗口
         self.admin_win = AdminWindow()  # 创建的用户管理窗口
@@ -143,7 +143,7 @@ class MyWindow(QWidget):
         self.frame.resize(1000, 520)
         self.frame.move(40, 150)
         self.frame.setStyleSheet(
-            'background-image: url("./python.png"); background-repeat: no-repeat; text-align:center;')
+            'background-image: url("./IMG/python.png"); background-repeat: no-repeat; text-align:center;')
 
     def login(self):
         """登录功能实现"""
@@ -179,7 +179,7 @@ class MyWindow(QWidget):
         frame = QFrame(self.sign_up_win)
         self.sign_up_win.setWindowFlag(Qt.Dialog)
         frame.resize(1000, 300)
-        frame.setStyleSheet('background-image: url("./python.png"); background-repeat: no-repeat;')
+        frame.setStyleSheet('background-image: url("./IMG/python.png"); background-repeat: no-repeat;')
         frame.move(40, 150)
         # 打开注册窗口时，清除原来的信息
         self.password_edit.setText('')

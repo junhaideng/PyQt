@@ -17,10 +17,10 @@ class Main(QMainWindow):
 
     def set_ui(self):
         self.setWindowTitle('Main page')
-        self.setWindowIcon(QIcon('./python-logo.png'))
+        self.setWindowIcon(QIcon('./IMG/python-logo.png'))
         self.setFixedSize(1200, 900)
         self.setFont(QFont('Consolas'))
-        self.setStyleSheet("background-image: url('./welcome.jpg'); background-repeat: no repeat")
+        self.setStyleSheet("background-image: url('./IMG/welcome.jpg'); background-repeat: no repeat")
         # self.setWindowOpacity(0.9)
 
 

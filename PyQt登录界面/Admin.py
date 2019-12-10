@@ -34,7 +34,7 @@ class AdminWindow(QWidget):
         self.setFixedSize(1200, 900)
         self.font = QFont("Consolas")
         self.setFont(self.font)
-        self.setWindowIcon(QIcon("./python-logo.png"))  # 设置图标
+        self.setWindowIcon(QIcon("./IMG/python-logo.png"))  # 设置图标
         self.add_table()  # 添加数据表格
         self.get_all_user()  # add table 之后才有show
         self.add_line_edit()  # 添加输入框

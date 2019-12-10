@@ -16,7 +16,7 @@
 
 1. 界面逻辑
 
-<img src='./flow.png' width="600" alt="img1">
+<img src='./IMG/flow.png' width="600" alt="img1">
 
 
 
@@ -29,7 +29,7 @@
 
 5. 下面为部分功能演示gif，图片并不是很清晰，可自行运行测试效果
 
-<img src='display.gif' alt="演示gif">
+<img src='./IMG/display.gif' alt="演示gif">
 
 
 
@@ -39,7 +39,7 @@
 
 ##### 三. 模块说明
 
-<img src='logic.png' width=600 alt="img2">
+<img src='./IMG/logic.png' width=600 alt="img2">
 
 
 1. Login.py

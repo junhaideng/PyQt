@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c59c0d9d-4b1b-4918-b94b-2ef320c62bed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="edgar: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="edgar: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="persons: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="edgar: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="test: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="ProjectId" id="1UVsuK0W5AXxDaZqsYv8tvUcQv6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/IMG" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PyQt登录界面" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PyQt登录界面" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\Python learning\PyQt\learn\GUI\share\PyQt登录界面\IMG" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Login">
+    <configuration name="Admin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt登录界面" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Admin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Database" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt登录界面" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Database.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt登录界面" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt登录界面" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Login" />
+        <item itemvalue="Python.Database" />
+        <item itemvalue="Python.Admin" />
+        <item itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c59c0d9d-4b1b-4918-b94b-2ef320c62bed" name="Default Changelist" comment="" />
+      <created>1575453317036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575453317036</updated>
+      <workItem from="1575453324365" duration="1206000" />
+      <workItem from="1575454556085" duration="1190000" />
+      <workItem from="1575457361764" duration="2639000" />
+      <workItem from="1575558579765" duration="1411000" />
+      <workItem from="1575560110382" duration="474000" />
+      <workItem from="1575560662006" duration="867000" />
+      <workItem from="1575561544170" duration="219000" />
+      <workItem from="1575561785848" duration="726000" />
+      <workItem from="1575735250546" duration="953000" />
+      <workItem from="1575977656936" duration="3423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="137" key="#Inspections" timestamp="1575561207934">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="343" y="137" key="#Inspections/0.0.1500.960@0.0.1500.960" timestamp="1575561207934" />
+    <state x="343" y="137" key="#SQL_Resolution_Scopes" timestamp="1575562247082">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="343" y="137" key="#SQL_Resolution_Scopes/0.0.1500.960@0.0.1500.960" timestamp="1575562247082" />
+    <state x="310" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575735801277">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="310" y="48" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960@0.0.1500.960" timestamp="1575735801277" />
+    <state x="432" y="204" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575560157701">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="432" y="204" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1500.960@0.0.1500.960" timestamp="1575560157701" />
+    <state x="529" y="220" key="FileChooserDialogImpl" timestamp="1575736194749">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="529" y="220" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1575736194749" />
+    <state width="729" height="269" key="GridCell.Tab.0.bottom" timestamp="1575980903124">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="729" height="269" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1575980903124" />
+    <state width="729" height="269" key="GridCell.Tab.0.center" timestamp="1575980903124">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="729" height="269" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1575980903124" />
+    <state width="729" height="269" key="GridCell.Tab.0.left" timestamp="1575980903124">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="729" height="269" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1575980903124" />
+    <state width="729" height="269" key="GridCell.Tab.0.right" timestamp="1575980903124">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="729" height="269" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1575980903124" />
+    <state width="309" height="538" key="HiddenNamespacesPopup" timestamp="1575735606004">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="309" height="538" key="HiddenNamespacesPopup/0.0.1500.960@0.0.1500.960" timestamp="1575735606004" />
+    <state x="183" y="143" key="SettingsEditor" timestamp="1575980708756">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="183" y="143" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1575980708756" />
+    <state width="200" height="523" key="SqlResolveConfigurable" timestamp="1575562245666">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="200" height="523" key="SqlResolveConfigurable/0.0.1500.960@0.0.1500.960" timestamp="1575562245666" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyQt$Admin.coverage" NAME="Admin Coverage Results" MODIFIED="1575459819065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$Database.coverage" NAME="Database Coverage Results" MODIFIED="1575561107826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$Main.coverage" NAME="Main Coverage Results" MODIFIED="1575459382517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$Login.coverage" NAME="Login Coverage Results" MODIFIED="1575980903115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
