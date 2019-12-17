@@ -3,6 +3,7 @@
 Author: Edgar
 Version: 1.0.0
 Create time: 2019 11
+Modified time: 2019 12-10
 Function: 该模块控制注册事件
 """
 from PyQt5.QtWidgets import QLabel, QLineEdit, QWidget, QPushButton, \

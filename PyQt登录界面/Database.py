@@ -117,8 +117,10 @@ class Database:
     @staticmethod
     def get_time():
         date = time.localtime()
-        created_time = "{}-{}-{}-{}:{}:{}".format(date.tm_year, date.tm_mon, date.tm_mday,
-                                                  date.tm_hour, date.tm_min, date.tm_sec)
+        created_time = "{}-{}-{}-{}:{}:{}".format(date.tm_year, date.tm_mon,
+                                                  date.tm_mday,
+                                                  date.tm_hour, date.tm_min,
+                                                  date.tm_sec)
         return created_time
 
 
@@ -127,6 +129,5 @@ if __name__ == '__main__':
     # data.insert_table('admin', 'password')
     data_ = data.read_table()
     print(data_)
-    for i in range(23):  # 简单的创建用户
-        data.insert_table(chr(i+65)*5, chr(i+65)+chr(i+66)*5)
-
+    # for i in range(23):  # 简单的创建用户
+    #     data.insert_table(chr(i + 65) * 5, chr(i + 65) + chr(i + 66) * 5)
